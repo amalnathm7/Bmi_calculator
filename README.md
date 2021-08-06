@@ -20,7 +20,6 @@ Stay updated about your BMI to keep fit and avoid risking diseases.
 <img src="screenshots/1.png" width="200"> <img src="screenshots/2.png" width="200"> <img src="screenshots/3.png" width="200">
 
 ## Download
-
 Download here 👇
 
 https://www.amazon.com/gp/product/B093T9W9CZ
