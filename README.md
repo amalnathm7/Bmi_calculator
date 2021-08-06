@@ -24,4 +24,4 @@ Download here 👇
 
 https://www.amazon.com/gp/product/B093T9W9CZ
 
-__Stay fit and healthy!__ 💪
+### Stay fit and healthy! 💪
