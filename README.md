@@ -21,7 +21,7 @@ Stay updated about your BMI to keep fit and avoid risking diseases.
 
 ## Download
 
-Download BMI Calculator here 👇
+Download here 👇
 
 https://www.amazon.com/gp/product/B093T9W9CZ
 
